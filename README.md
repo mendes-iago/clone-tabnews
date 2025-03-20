@@ -1,3 +1,3 @@
-# olab-homepage
+# clone-tabnews
 
-Página inicial do site https://olablearning.com.br
+Implementação do https://www.tabnews.com.br para o https://curso.dev
